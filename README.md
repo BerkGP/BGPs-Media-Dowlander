@@ -70,4 +70,4 @@ Eklenti YouTube Shorts içeriklerinde de çalışır. Herhangi bir Shorts videos
 
 ## 📥 İndir
 
-Projenin kaynak kodlarını ve güncel sürüm paketini aşağıdan indirebilirsiniz.
+Projenin kendisini ve güncel sürüm paketini **[Releases (Sürümler) sayfasından](https://github.com/BerkGP/BGPs-Media-Dowlander/releases)** kolayca indirebilirsiniz.
